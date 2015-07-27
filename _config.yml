@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://hackbeers.github.io
+title: hackbeers
+tagline: Hello World
+description: hackbeers is an awesome event for developers to drink beer, get some time away from the keyboard, and talk about your favorite language, IDE or API.
+paginate: 3
