@@ -3,6 +3,17 @@ published: true
 title: Hello world
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/hackbeers/hackbeers.github.io](http://github.com/hackbeers/hackbeers.github.io). Be nice. Give credit. Share, don't steal :)
+hackbeers is an awesome event for developers to drink beer, get some time away from the keyboard, and talk about your favorite language, IDE or API.
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Our mission is to unite developers from all communities
+===
+
+Want to talk about Ruby, Python, Javascript, Node, Go, C#, PHP, Java, Objective-C, Scala? Come over, grab a beer, and start chatting!
+
+Every month we’ll be at a different venue and a different date, so be sure to keep your eyes out. Follow us on Twitter, like us on Facebook or sign up to our mailing list to keep up with the beers.
+
+hackbeers in your city!
+
+Are you interested in starting a hackbeers group in your city? Send us an email and let’s chat over a Hangout beer!
+
+If you’d like to get notified about the next events, you can watch the hackbeers website repository:
